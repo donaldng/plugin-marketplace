@@ -345,9 +345,9 @@
         ]
       }
     },
-    "mida": {
-      "sha": "ca5dfee0aefff88681963cdc1ba7327cefd55181",
-      "version": "1.0.0",
+    "mida-abtesting": {
+      "sha": "52d696e34cf81874f82b0c134513a3325c70c42c",
+      "version": "1.0.1",
       "components": {
         "mcpServers": [
           {
