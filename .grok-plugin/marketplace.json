@@ -288,9 +288,9 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mida-so/mida-plugin.git",
-        "sha": "fadc108c043ff85e5174f0cc85d22b9da6ef1b86"
+        "sha": "ca5dfee0aefff88681963cdc1ba7327cefd55181"
       },
-      "homepage": "https://www.mida.so",
+      "homepage": "https://www.mida.so/mcp",
       "keywords": ["mida", "mida ab test", "mida experiment", "mida personalization", "mida.so"],
       "domains": ["mida.so", "www.mida.so", "app.mida.so"]
     }
