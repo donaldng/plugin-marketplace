@@ -287,8 +287,8 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/mida-so/mida-grok-plugin.git",
-        "sha": "f58506f82cad91ba762e2160fef6a63b97ff7ec8"
+        "url": "https://github.com/mida-so/mida-plugin.git",
+        "sha": "fadc108c043ff85e5174f0cc85d22b9da6ef1b86"
       },
       "homepage": "https://www.mida.so",
       "keywords": ["mida", "mida ab test", "mida experiment", "mida personalization", "mida.so"],
