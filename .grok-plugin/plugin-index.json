@@ -345,6 +345,28 @@
         ]
       }
     },
+    "mida": {
+      "sha": "f58506f82cad91ba762e2160fef6a63b97ff7ec8",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "mida",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "mida",
+            "description": "Working with Mida — A/B testing, split tests, and personalization on a live website. Use whenever \"Mida\" is mentioned,…"
+          },
+          {
+            "name": "mida-experiments",
+            "description": "Build and launch a Mida A/B test end to end — writing the hypothesis, creating the experiment and its variants, attachi…"
+          }
+        ]
+      }
+    },
     "mongodb": {
       "sha": "b4ea8150a020b9babaddc6c271c6dc177c06a83f",
       "version": "1.2.0",

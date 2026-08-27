@@ -280,6 +280,19 @@
       "homepage": "https://browser-use.com",
       "keywords": ["browser use", "browser-use", "browser use cloud"],
       "domains": ["browser-use.com", "cloud.browser-use.com"]
+    },
+    {
+      "name": "mida",
+      "description": "Mida A/B testing and personalization (MCP server + skills). Create experiments and goals, read results with Mida's own statistics, conclude tests, and serve winners on any site running the Mida tag.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mida-so/mida-grok-plugin.git",
+        "sha": "f58506f82cad91ba762e2160fef6a63b97ff7ec8"
+      },
+      "homepage": "https://www.mida.so",
+      "keywords": ["mida", "mida ab test", "mida experiment", "mida personalization", "mida.so"],
+      "domains": ["mida.so", "www.mida.so", "app.mida.so"]
     }
   ]
 }
